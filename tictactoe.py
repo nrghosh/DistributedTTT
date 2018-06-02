@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#
+# c/o Prof. Manfredi
 # Wesleyan University
 # COMP 332, Spring 2018
 # Homework 2: Distributed tic-tac-toe game
