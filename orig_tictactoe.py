@@ -40,6 +40,7 @@ class TicTacToe():
         return self.moves == self.max_moves
 
     def game_won(self):
+        # All won-state scenarios
         # Horizontals (n possible)
         for row in self.board:
             if all(x == " X " for x in row) or all(x == " O " for x in row):
