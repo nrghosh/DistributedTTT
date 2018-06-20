@@ -145,6 +145,7 @@ class Server():
             ##############################
             ##############################
 
+            ## Somewhat Intelligent Server Logic
             ## HORIZONTAL winning move available?
             # for row in t.board:
             #     if row.count(" O ") == board_size - 1 and row.count(" - ") == 1:
