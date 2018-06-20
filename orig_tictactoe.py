@@ -190,6 +190,8 @@ class Server():
             #                         while t.is_taken(s_row, s_col):
             #                             s_row = random.randint(0, end)
             #                             s_col = random.randint(0, end)
+            
+            # Option 2: Totally random move
             ########### Random ###########
             ######   Server Move  ########
             random.seed()
